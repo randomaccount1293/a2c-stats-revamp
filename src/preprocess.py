@@ -39,6 +39,7 @@ def preprocess(file_location, output_location):
 
     # To add a new year, just duplicate an entry and add a new year to it
     graduating_years = [
+        ["2025", datetime(2024, 11, 1), []],
         ["2024", datetime(2023, 11, 1), []],
         ["2023", datetime(2022, 11, 1), []],
         ["2022", datetime(2021, 11, 1), []],

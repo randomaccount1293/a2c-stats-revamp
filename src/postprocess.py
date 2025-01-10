@@ -8,7 +8,7 @@ import re
 # This parses the result from clean.py into a json to be used in other applications.
 
 def clean_university_name(name):
-    return re.sub(r"[^a-zA-Z&]", "", name)
+    return re.sub(r"[^a-zA-Z& ]", "", name.replace("-", " "))
 
 
 def postprocess_json(input_dir, output_dir):

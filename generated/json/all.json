@@ -1,0 +1,4907 @@
+[
+  [
+    "user392",
+    "Yale University",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user393",
+    "Yale University",
+    [
+      "Ethics",
+      "Politics",
+      "and Economics"
+    ]
+  ],
+  [
+    "user394",
+    "Grinnell College",
+    [
+      "Physics",
+      "Economics",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user395",
+    "Boston College",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user396",
+    "Dartmouth College",
+    [
+      "Computer Science",
+      "Economics"
+    ]
+  ],
+  [
+    "user397",
+    "Northeastern University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user398",
+    "University of Pennsylvania",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user399",
+    "Washington University in St Louis",
+    [
+      "Political Science"
+    ]
+  ],
+  [
+    "user400",
+    "Columbia University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user401",
+    "Oberlin College",
+    [
+      "Comparative Eastern European Studies",
+      "Viola Performance"
+    ]
+  ],
+  [
+    "user402",
+    "Yale University",
+    [
+      "Cognitive Science"
+    ]
+  ],
+  [
+    "user403",
+    "Emory University",
+    [
+      "Quantitative Sciences"
+    ]
+  ],
+  [
+    "user404",
+    "New York University",
+    [
+      "Computer Science",
+      "Mathematics"
+    ]
+  ],
+  [
+    "user405",
+    "Stanford University",
+    [
+      "Biology"
+    ]
+  ],
+  [
+    "user406",
+    "Dartmouth College",
+    [
+      "Chemistry",
+      "Government"
+    ]
+  ],
+  [
+    "user407",
+    "Cornell University",
+    [
+      "Environmental Engineering"
+    ]
+  ],
+  [
+    "user408",
+    "Princeton University",
+    [
+      "Public Policy"
+    ]
+  ],
+  [
+    "user409",
+    "Brandeis University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user410",
+    "Dartmouth College",
+    [
+      "Quantitative Social Science"
+    ]
+  ],
+  [
+    "user411",
+    "Johns Hopkins University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user412",
+    "Dartmouth College",
+    [
+      "Environmental Studies"
+    ]
+  ],
+  [
+    "user413",
+    "University of Pennsylvania",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user414",
+    "Dartmouth College",
+    [
+      "Economics",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user415",
+    "Northwestern University",
+    [
+      "Oboe Performance",
+      "Computer Engineering"
+    ]
+  ],
+  [
+    "user416",
+    "Duke University",
+    [
+      "Statistics",
+      "Global Health"
+    ]
+  ],
+  [
+    "user417",
+    "Northwestern University",
+    [
+      "Journalism"
+    ]
+  ],
+  [
+    "user418",
+    "Cornell University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user419",
+    "University of Alabama",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user420",
+    "Columbia University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user421",
+    "Williams College",
+    [
+      "Humanities",
+      "Visual Arts"
+    ]
+  ],
+  [
+    "user422",
+    "Columbia University",
+    [
+      "Political Science",
+      "Violin Performance"
+    ]
+  ],
+  [
+    "user423",
+    "George Washington University",
+    [
+      "Political Science",
+      "Economics"
+    ]
+  ],
+  [
+    "user424",
+    "Duke University",
+    [
+      "Political Science",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user425",
+    "Bowdoin College",
+    [
+      "Sociology",
+      "Government"
+    ]
+  ],
+  [
+    "user426",
+    "Brown University",
+    [
+      "Business",
+      "Entrepreneurship",
+      "and Organizations"
+    ]
+  ],
+  [
+    "user427",
+    "West Virginia University",
+    [
+      "Political Science"
+    ]
+  ],
+  [
+    "user428",
+    "Harvard University",
+    [
+      "Physics"
+    ]
+  ],
+  [
+    "user429",
+    "University of Texas at Dallas",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user430",
+    "Barnard College",
+    [
+      "Computer Science",
+      "Film"
+    ]
+  ],
+  [
+    "user431",
+    "New York University Abu Dhabi",
+    [
+      "Economics"
+    ]
+  ],
+  [
+    "user432",
+    "University of Pennsylvania",
+    [
+      "Psychology"
+    ]
+  ],
+  [
+    "user433",
+    "Barnard College",
+    [
+      "Urban Studies"
+    ]
+  ],
+  [
+    "user434",
+    "University of Chicago",
+    [
+      "Computer Science",
+      "Economics"
+    ]
+  ],
+  [
+    "user435",
+    "University of Chicago",
+    [
+      "Neuroscience"
+    ]
+  ],
+  [
+    "user436",
+    "George Washington University",
+    [
+      "Political Science"
+    ]
+  ],
+  [
+    "user437",
+    "Vanderbilt University",
+    [
+      "Mathematics",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user438",
+    "Cornell University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user439",
+    "Northeastern University",
+    [
+      "Cell and Molecular Biology"
+    ]
+  ],
+  [
+    "user440",
+    "Georgia Institute of Technology",
+    [
+      "Aerospace Engineering"
+    ]
+  ],
+  [
+    "user441",
+    "Georgia Institute of Technology",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user442",
+    "Bowdoin College",
+    [
+      "Government and Legal Studies"
+    ]
+  ],
+  [
+    "user443",
+    "University of California San Diego",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user444",
+    "Rutgers University New Brunswick",
+    [
+      "Meteorology"
+    ]
+  ],
+  [
+    "user445",
+    "Stanford University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user446",
+    "Stanford University",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user447",
+    "University of Maryland College Park",
+    [
+      "Computer Science",
+      "Government and Politics"
+    ]
+  ],
+  [
+    "user448",
+    "University of Massachusetts Amherst",
+    [
+      "Informatics"
+    ]
+  ],
+  [
+    "user449",
+    "Washington University in St Louis",
+    [
+      "Architecture"
+    ]
+  ],
+  [
+    "user450",
+    "Northeastern University",
+    [
+      "Computer Science",
+      "Mathematics"
+    ]
+  ],
+  [
+    "user451",
+    "Northeastern University",
+    [
+      "Behavioral Neuroscience"
+    ]
+  ],
+  [
+    "user452",
+    "Brandeis University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user453",
+    "Georgia Institute of Technology",
+    [
+      "Business Administration"
+    ]
+  ],
+  [
+    "user454",
+    "University of Pennsylvania",
+    [
+      "Economics"
+    ]
+  ],
+  [
+    "user455",
+    "University of Texas at Austin",
+    [
+      "Biology"
+    ]
+  ],
+  [
+    "user456",
+    "Fordham University",
+    [
+      "Finance"
+    ]
+  ],
+  [
+    "user457",
+    "Western Michigan University",
+    [
+      "Professional Flight"
+    ]
+  ],
+  [
+    "user458",
+    "Colgate University",
+    [
+      "Biochemistry"
+    ]
+  ],
+  [
+    "user459",
+    "Michigan State University",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user460",
+    "Georgia Institute of Technology",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user461",
+    "Yale University",
+    [
+      "Theatre",
+      "Political Science"
+    ]
+  ],
+  [
+    "user462",
+    "Wellesley College",
+    [
+      "Psychology",
+      "Sociology"
+    ]
+  ],
+  [
+    "user463",
+    "Wellesley College",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user464",
+    "University of Chicago",
+    [
+      "Philosophy"
+    ]
+  ],
+  [
+    "user465",
+    "Vanderbilt University",
+    [
+      "Biology"
+    ]
+  ],
+  [
+    "user466",
+    "New York University Shanghai",
+    [
+      "International Relations",
+      "Business and Marketing"
+    ]
+  ],
+  [
+    "user467",
+    "Columbia College Chicago",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user468",
+    "University of Alabama",
+    [
+      "Biology"
+    ]
+  ],
+  [
+    "user469",
+    "Cornell University",
+    [
+      "Computer Science",
+      "Astronomy"
+    ]
+  ],
+  [
+    "user470",
+    "Michigan State University",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user471",
+    "Wellesley College",
+    [
+      "Mathematics"
+    ]
+  ],
+  [
+    "user472",
+    "University of California Berkeley",
+    [
+      "Economics"
+    ]
+  ],
+  [
+    "user473",
+    "University of Chicago",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user474",
+    "Purdue University",
+    [
+      "Genetics"
+    ]
+  ],
+  [
+    "user475",
+    "Rutgers University New Brunswick",
+    [
+      "Biochemistry"
+    ]
+  ],
+  [
+    "user476",
+    "Florida State University",
+    [
+      "Economics"
+    ]
+  ],
+  [
+    "user477",
+    "Tufts University",
+    [
+      "Biochemistry",
+      "French"
+    ]
+  ],
+  [
+    "user478",
+    "Case Western Reserve University",
+    [
+      "Polymer Science and Engineering"
+    ]
+  ],
+  [
+    "user479",
+    "Massachusetts Institute of Technology",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user480",
+    "University of Pittsburgh",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user481",
+    "Colgate University",
+    [
+      "Applied Mathematics"
+    ]
+  ],
+  [
+    "user482",
+    "Bowdoin College",
+    [
+      "Economics",
+      "Biochemistry"
+    ]
+  ],
+  [
+    "user483",
+    "Oregon State University",
+    [
+      "Marketing"
+    ]
+  ],
+  [
+    "user484",
+    "University of Florida",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user485",
+    "University of Alabama",
+    [
+      "Engineering"
+    ]
+  ],
+  [
+    "user486",
+    "Northeastern University",
+    [
+      "Computer Science",
+      "Mathematics"
+    ]
+  ],
+  [
+    "user487",
+    "University of California Davis",
+    [
+      "Undeclared-Life Sciences"
+    ]
+  ],
+  [
+    "user488",
+    "University of California San Diego",
+    [
+      "Computer Engineering"
+    ]
+  ],
+  [
+    "user489",
+    "University of California Berkeley",
+    [
+      "Electrical Engineering and Computer Sciences"
+    ]
+  ],
+  [
+    "user490",
+    "Vanderbilt University",
+    [
+      "Economics"
+    ]
+  ],
+  [
+    "user491",
+    "University of California Los Angeles",
+    [
+      "Design Media Arts"
+    ]
+  ],
+  [
+    "user492",
+    "University of Michigan",
+    [
+      "Biomedical Engineering"
+    ]
+  ],
+  [
+    "user493",
+    "Purdue University",
+    [
+      "Computer Engineering"
+    ]
+  ],
+  [
+    "user494",
+    "Georgia Tech",
+    [
+      "Biochemistry"
+    ]
+  ],
+  [
+    "user495",
+    "University of Texas at Austin",
+    [
+      "Mechanical Engineering"
+    ]
+  ],
+  [
+    "user496",
+    "Boston University",
+    [
+      "Finance",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user497",
+    "University of Pennsylvania",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user498",
+    "Columbia University",
+    [
+      "Astrophysics",
+      "Public Policy"
+    ]
+  ],
+  [
+    "user499",
+    "Tufts University",
+    [
+      "Economics",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user500",
+    "Amherst College",
+    [
+      "Physics",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user501",
+    "University of Michigan",
+    [
+      "Mathematics"
+    ]
+  ],
+  [
+    "user502",
+    "Purdue University",
+    [
+      "Airline Management and Operations"
+    ]
+  ],
+  [
+    "user503",
+    "University of California Berkeley",
+    [
+      "Electrical Engineering and Computer Science"
+    ]
+  ],
+  [
+    "user504",
+    "Harvard University",
+    [
+      "Physics",
+      "English"
+    ]
+  ],
+  [
+    "user505",
+    "University of North Carolina Chapel Hill",
+    [
+      "Physics",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user506",
+    "University of California Irvine",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user507",
+    "University of Connecticut",
+    [
+      "Business Undecided"
+    ]
+  ],
+  [
+    "user508",
+    "University of California Berkeley",
+    [
+      "Mathematics",
+      "Sociology"
+    ]
+  ],
+  [
+    "user509",
+    "Princeton University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user510",
+    "University of Pennsylvania",
+    [
+      "Physics",
+      "Theatre Arts"
+    ]
+  ],
+  [
+    "user511",
+    "University of California Berkeley",
+    [
+      "Applied Mathematics"
+    ]
+  ],
+  [
+    "user512",
+    "Case Western Reserve University",
+    [
+      "Data Science"
+    ]
+  ],
+  [
+    "user513",
+    "Swarthmore College",
+    [
+      "Computer Science",
+      "Psychology"
+    ]
+  ],
+  [
+    "user514",
+    "University of Maryland College Park",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user515",
+    "Sophie Davis School of Medicine",
+    [
+      "Biomedical Science"
+    ]
+  ],
+  [
+    "user516",
+    "University of Texas at Austin",
+    [
+      "Mechanical Engineering"
+    ]
+  ],
+  [
+    "user517",
+    "Georgetown University",
+    [
+      "International Politics"
+    ]
+  ],
+  [
+    "user518",
+    "University of Washington",
+    [
+      "Informatics"
+    ]
+  ],
+  [
+    "user519",
+    "University of Florida",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user520",
+    "Johns Hopkins University",
+    [
+      "Biomedical Engineering"
+    ]
+  ],
+  [
+    "user521",
+    "Rowan University",
+    [
+      "Sports Communication and Media"
+    ]
+  ],
+  [
+    "user522",
+    "University of California San Diego",
+    [
+      "Interdisciplinary Computing and the Arts",
+      "Cognitive Science"
+    ]
+  ],
+  [
+    "user523",
+    "Purdue University",
+    [
+      "Integrated Business and Engineering"
+    ]
+  ],
+  [
+    "user524",
+    "Georgia Tech",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user525",
+    "New Jersey Institute of Technology",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user526",
+    "Purdue University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user527",
+    "Boston University",
+    [
+      "Music",
+      "French"
+    ]
+  ],
+  [
+    "user528",
+    "American University",
+    [
+      "Political Science"
+    ]
+  ],
+  [
+    "user529",
+    "University of Miami",
+    [
+      "Computer Science",
+      "Interactive Media"
+    ]
+  ],
+  [
+    "user530",
+    "University of California Berkeley",
+    [
+      "Bioengineering",
+      "Business"
+    ]
+  ],
+  [
+    "user531",
+    "University of Maryland College Park",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user532",
+    "California Institute of Technology",
+    [
+      "Physics",
+      "Mathematics"
+    ]
+  ],
+  [
+    "user533",
+    "Singidunum University Serbia",
+    [
+      "English"
+    ]
+  ],
+  [
+    "user534",
+    "Northwestern University",
+    [
+      "Economics"
+    ]
+  ],
+  [
+    "user535",
+    "Washington University in St Louis",
+    [
+      "Chemistry"
+    ]
+  ],
+  [
+    "user536",
+    "University of Chicago",
+    [
+      "Economics"
+    ]
+  ],
+  [
+    "user537",
+    "Brown University",
+    [
+      "Music",
+      "Literary Arts"
+    ]
+  ],
+  [
+    "user538",
+    "Brown University",
+    [
+      "Computer Science",
+      "Applied Math-Economics"
+    ]
+  ],
+  [
+    "user539",
+    "University of Maryland College Park",
+    [
+      "Computer Science",
+      "Business Analytics"
+    ]
+  ],
+  [
+    "user540",
+    "Rice University",
+    [
+      "Business"
+    ]
+  ],
+  [
+    "user541",
+    "Columbia University",
+    [
+      "Astrophysics"
+    ]
+  ],
+  [
+    "user542",
+    "University of Pennsylvania",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user543",
+    "Arizona State University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user544",
+    "University of North Carolina Chapel Hill",
+    [
+      "Mathematics",
+      "Philosophy"
+    ]
+  ],
+  [
+    "user545",
+    "St Lawrence University",
+    [
+      "Geology",
+      "Anthropology"
+    ]
+  ],
+  [
+    "user546",
+    "University of Michigan",
+    [
+      "Biology"
+    ]
+  ],
+  [
+    "user547",
+    "University of North Carolina Chapel Hill",
+    [
+      "Business"
+    ]
+  ],
+  [
+    "user548",
+    "University of Texas at Dallas",
+    [
+      "Biology"
+    ]
+  ],
+  [
+    "user549",
+    "University of Illinois Urbana Champaign",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user550",
+    "University of California Berkeley",
+    [
+      "Environmental Economics",
+      "Policy"
+    ]
+  ],
+  [
+    "user551",
+    "Wabash College",
+    [
+      "Computer Science",
+      "Mathematics"
+    ]
+  ],
+  [
+    "user552",
+    "University of Massachusetts Amherst",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user553",
+    "Rice University",
+    [
+      "Mechanical Engineering"
+    ]
+  ],
+  [
+    "user554",
+    "Cornell University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user555",
+    "University of Wisconsin Madison",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user556",
+    "University of California Berkeley",
+    [
+      "Pure Mathematics",
+      "Statistics"
+    ]
+  ],
+  [
+    "user557",
+    "University of Massachusetts Amherst",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user558",
+    "Rochester Institute of Technology",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user559",
+    "Carnegie Mellon University",
+    [
+      "Chemical Engineering",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user560",
+    "University of St Andrews",
+    [
+      "Sustainable Development",
+      "Geography"
+    ]
+  ],
+  [
+    "user561",
+    "Georgia Institute of Technology",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user562",
+    "University of Illinois Urbana Champaign",
+    [
+      "Computer Engineering"
+    ]
+  ],
+  [
+    "user563",
+    "University of California Berkeley",
+    [
+      "Anthropology"
+    ]
+  ],
+  [
+    "user564",
+    "Amherst College",
+    [
+      "Mathematics",
+      "Statistics"
+    ]
+  ],
+  [
+    "user565",
+    "Amherst College",
+    [
+      "Neuroscience",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user566",
+    "Cornell University",
+    [
+      "Hotel Administration"
+    ]
+  ],
+  [
+    "user567",
+    "Cornell University",
+    [
+      "Chemical Biology"
+    ]
+  ],
+  [
+    "user568",
+    "Johns Hopkins University",
+    [
+      "French Horn Music Performance"
+    ]
+  ],
+  [
+    "user569",
+    "College of William & Mary",
+    [
+      "Biology",
+      "Public Policy"
+    ]
+  ],
+  [
+    "user570",
+    "Brandeis University",
+    [
+      "Linguistics",
+      "History"
+    ]
+  ],
+  [
+    "user571",
+    "University of Wisconsin Madison",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user572",
+    "Florida State University",
+    [
+      "Commercial Music",
+      "Entrepreneurship"
+    ]
+  ],
+  [
+    "user573",
+    "George Washington University",
+    [
+      "Chemistry",
+      "Political Science"
+    ]
+  ],
+  [
+    "user574",
+    "California Polytechnic State University San Luis Obispo",
+    [
+      "City and Regional Planning"
+    ]
+  ],
+  [
+    "user575",
+    "Clark University",
+    [
+      "Computer Science",
+      "Psychology"
+    ]
+  ],
+  [
+    "user576",
+    "University of Southern California",
+    [
+      "Business Administration"
+    ]
+  ],
+  [
+    "user577",
+    "Pennsylvania State University",
+    [
+      "Mathematics",
+      "Astronomy"
+    ]
+  ],
+  [
+    "user578",
+    "Boston College",
+    [
+      "Biology"
+    ]
+  ],
+  [
+    "user579",
+    "Duke University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user580",
+    "California Institute of Technology",
+    [
+      "Mathematics",
+      "Philosophy"
+    ]
+  ],
+  [
+    "user581",
+    "Columbia University",
+    [
+      "Computer Science",
+      "Applied Mathematics"
+    ]
+  ],
+  [
+    "user582",
+    "University of Virginia",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user583",
+    "Wake Forest University",
+    [
+      "Business",
+      "Psychology"
+    ]
+  ],
+  [
+    "user584",
+    "Stanford University",
+    [
+      "Human Biology"
+    ]
+  ],
+  [
+    "user585",
+    "University of Texas at Austin",
+    [
+      "Electrical Engineering",
+      "and Computer Engineering"
+    ]
+  ],
+  [
+    "user586",
+    "Santa Clara University",
+    [
+      "Management Information Systems"
+    ]
+  ],
+  [
+    "user587",
+    "University of Chicago",
+    [
+      "Computer Science",
+      "Business Economics"
+    ]
+  ],
+  [
+    "user588",
+    "University of California San Diego",
+    [
+      "Theatre"
+    ]
+  ],
+  [
+    "user589",
+    "Yale University",
+    [
+      "Computer Science",
+      "Mathematics"
+    ]
+  ],
+  [
+    "user590",
+    "Yale University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user591",
+    "Case Western Reserve University",
+    [
+      "Neuroscience"
+    ]
+  ],
+  [
+    "user592",
+    "Stanford University",
+    [
+      "Political Science",
+      "Economics"
+    ]
+  ],
+  [
+    "user593",
+    "University of California San Diego",
+    [
+      "Cognitive Science",
+      "Music"
+    ]
+  ],
+  [
+    "user594",
+    "College of William & Mary",
+    [
+      "Biology",
+      "Mathematics"
+    ]
+  ],
+  [
+    "user595",
+    "University of Pittsburgh",
+    [
+      "Physics",
+      "Quantum Computing"
+    ]
+  ],
+  [
+    "user596",
+    "Appalachian State University",
+    [
+      "Political Science"
+    ]
+  ],
+  [
+    "user597",
+    "Dartmouth College",
+    [
+      "Computer Science",
+      "Economics",
+      "Mathematics"
+    ]
+  ],
+  [
+    "user598",
+    "Northwestern University",
+    [
+      "Computer Engineering"
+    ]
+  ],
+  [
+    "user599",
+    "Skidmore College",
+    [
+      "English"
+    ]
+  ],
+  [
+    "user600",
+    "University of California Los Angeles",
+    [
+      "Business",
+      "Political Science"
+    ]
+  ],
+  [
+    "user601",
+    "University of California San Diego",
+    [
+      "Mathematics",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user602",
+    "Azim Premji University",
+    [
+      "Physics"
+    ]
+  ],
+  [
+    "user603",
+    "James Madison University",
+    [
+      "Biology",
+      "Theatre"
+    ]
+  ],
+  [
+    "user604",
+    "Georgia Institute of Technology",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user605",
+    "University of Toronto",
+    [
+      "Astronomy",
+      "Physics"
+    ]
+  ],
+  [
+    "user606",
+    "Cornell University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user607",
+    "University of Texas at Dallas",
+    [
+      "Cognitive Science"
+    ]
+  ],
+  [
+    "user608",
+    "Cornell University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user609",
+    "Colby College",
+    [
+      "Computer Science",
+      "Music"
+    ]
+  ],
+  [
+    "user610",
+    "Virginia Tech",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user611",
+    "University of Southern California",
+    [
+      "Mathematics",
+      "Economics"
+    ]
+  ],
+  [
+    "user612",
+    "University of Wisconsin Madison",
+    [
+      "Computer Engineering"
+    ]
+  ],
+  [
+    "user613",
+    "Purdue University",
+    [
+      "Computer Science",
+      "Mathematics"
+    ]
+  ],
+  [
+    "user614",
+    "University of Pittsburgh",
+    [
+      "Psychology",
+      "Neuroscience"
+    ]
+  ],
+  [
+    "user615",
+    "University of Wisconsin Madison",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user616",
+    "University of Pennsylvania",
+    [
+      "Chemistry"
+    ]
+  ],
+  [
+    "user617",
+    "University of Wisconsin Madison",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user618",
+    "University of Pittsburgh",
+    [
+      "Pre-Med"
+    ]
+  ],
+  [
+    "user619",
+    "University of Michigan",
+    [
+      "Engineering"
+    ]
+  ],
+  [
+    "user620",
+    "Purdue University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user621",
+    "Iowa State University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user622",
+    "Carnegie Mellon University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user623",
+    "University of Rochester",
+    [
+      "Biochemistry"
+    ]
+  ],
+  [
+    "user624",
+    "Case Western Reserve University",
+    [
+      "Biomedical Engineering"
+    ]
+  ],
+  [
+    "user625",
+    "University of Pennsylvania",
+    [
+      "Economics"
+    ]
+  ],
+  [
+    "user626",
+    "University of California Riverside",
+    [
+      "Material Science",
+      "Engineering"
+    ]
+  ],
+  [
+    "user627",
+    "University of Rochester",
+    [
+      "Computer Science",
+      "Economics"
+    ]
+  ],
+  [
+    "user628",
+    "Northwestern University",
+    [
+      "Economics"
+    ]
+  ],
+  [
+    "user629",
+    "University of Southern California",
+    [
+      "Finance",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user630",
+    "Saint Anselm College",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user631",
+    "Harvard University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user632",
+    "University of Southern California",
+    [
+      "Environmental Engineering"
+    ]
+  ],
+  [
+    "user633",
+    "University of Notre Dame",
+    [
+      "Political Science"
+    ]
+  ],
+  [
+    "user634",
+    "Johns Hopkins University",
+    [
+      "Biology",
+      "Film"
+    ]
+  ],
+  [
+    "user635",
+    "Northwestern University",
+    [
+      "Economics",
+      "Industrial Engineering",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user636",
+    "Cornell University",
+    [
+      "Electrical Engineering",
+      "Computer Engineering"
+    ]
+  ],
+  [
+    "user637",
+    "Case Western Reserve University",
+    [
+      "Physics"
+    ]
+  ],
+  [
+    "user638",
+    "Vanderbilt University",
+    [
+      "Biomedical Engineering"
+    ]
+  ],
+  [
+    "user639",
+    "Princeton University",
+    [
+      "Computer Science",
+      "Geosciences"
+    ]
+  ],
+  [
+    "user640",
+    "Grinnell College",
+    [
+      "Logic and Computation"
+    ]
+  ],
+  [
+    "user641",
+    "Virginia Tech",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user642",
+    "University of Michigan",
+    [
+      "Business"
+    ]
+  ],
+  [
+    "user643",
+    "College of William & Mary",
+    [
+      "Government",
+      "Theater"
+    ]
+  ],
+  [
+    "user644",
+    "Princeton University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user645",
+    "Northeastern University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user646",
+    "North Carolina State University",
+    [
+      "Engineering"
+    ]
+  ],
+  [
+    "user647",
+    "Amherst College",
+    [
+      "Mathematics",
+      "Economics"
+    ]
+  ],
+  [
+    "user648",
+    "Lehigh University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user649",
+    "Rutgers University New Brunswick",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user650",
+    "University of California Berkeley",
+    [
+      "Economics"
+    ]
+  ],
+  [
+    "user651",
+    "School of Visual Arts",
+    [
+      "Illustration"
+    ]
+  ],
+  [
+    "user652",
+    "Stanford University",
+    [
+      "Mathematics",
+      "Data Science",
+      "Economics",
+      "Management Science",
+      "Engineering"
+    ]
+  ],
+  [
+    "user653",
+    "George Mason University",
+    [
+      "Business"
+    ]
+  ],
+  [
+    "user654",
+    "University of Waterloo",
+    [
+      "Mathematics",
+      "Financial Analysis",
+      "and Risk Management"
+    ]
+  ],
+  [
+    "user655",
+    "University of Illinois Urbana Champaign",
+    [
+      "Electrical Engineering"
+    ]
+  ],
+  [
+    "user656",
+    "Brown University",
+    [
+      "Mathematics",
+      "Applied Mathematics",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user657",
+    "Harvard University",
+    [
+      "Molecular and Cellular Biology or History and Science"
+    ]
+  ],
+  [
+    "user658",
+    "Rutgers University New Brunswick",
+    [
+      "Engineering"
+    ]
+  ],
+  [
+    "user659",
+    "Fordham University",
+    [
+      "Business"
+    ]
+  ],
+  [
+    "user660",
+    "Rice University",
+    [
+      "Mechanical Engineering"
+    ]
+  ],
+  [
+    "user661",
+    "Texas A&M University",
+    [
+      "Electrical and Computer Engineering"
+    ]
+  ],
+  [
+    "user662",
+    "College of William & Mary",
+    [
+      "History",
+      "Government"
+    ]
+  ],
+  [
+    "user663",
+    "Carleton College",
+    [
+      "Mathematics",
+      "Linguistics"
+    ]
+  ],
+  [
+    "user664",
+    "Princeton University",
+    [
+      "Biology"
+    ]
+  ],
+  [
+    "user665",
+    "Tulane University",
+    [
+      "Undeclared"
+    ]
+  ],
+  [
+    "user666",
+    "Montclair State University",
+    [
+      "Visual Arts"
+    ]
+  ],
+  [
+    "user667",
+    "cole Centrale de Nantes",
+    [
+      "Engineering"
+    ]
+  ],
+  [
+    "user668",
+    "University of California Los Angeles",
+    [
+      "Pre-Data Theory"
+    ]
+  ],
+  [
+    "user669",
+    "Case Western Reserve University",
+    [
+      "Economics",
+      "Data Science"
+    ]
+  ],
+  [
+    "user670",
+    "Hamilton College",
+    [
+      "Sociology"
+    ]
+  ],
+  [
+    "user671",
+    "Arizona State University",
+    [
+      "Marketing"
+    ]
+  ],
+  [
+    "user672",
+    "University of Wisconsin Madison",
+    [
+      "Political Science"
+    ]
+  ],
+  [
+    "user673",
+    "Purdue University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user674",
+    "University of California Los Angeles",
+    [
+      "Pre-Public Affairs"
+    ]
+  ],
+  [
+    "user675",
+    "Boston University",
+    [
+      "Finance",
+      "Statistics"
+    ]
+  ],
+  [
+    "user676",
+    "University of North Carolina Chapel Hill",
+    [
+      "Computer Science",
+      "Finance"
+    ]
+  ],
+  [
+    "user677",
+    "University of Florida",
+    [
+      "Psychology"
+    ]
+  ],
+  [
+    "user678",
+    "Tulane University",
+    [
+      "Undecided"
+    ]
+  ],
+  [
+    "user679",
+    "Stanford University",
+    [
+      "Computer Science",
+      "History"
+    ]
+  ],
+  [
+    "user680",
+    "Dartmouth College",
+    [
+      "Economics"
+    ]
+  ],
+  [
+    "user681",
+    "Vanderbilt University",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user682",
+    "Cornell University",
+    [
+      "Music",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user683",
+    "Hamilton College",
+    [
+      "Data Science",
+      "Astronomy"
+    ]
+  ],
+  [
+    "user684",
+    "Western University",
+    [
+      "Economics",
+      "Ivey Business School"
+    ]
+  ],
+  [
+    "user685",
+    "University of California Los Angeles",
+    [
+      "Design/Media Arts",
+      "Cognitive Science"
+    ]
+  ],
+  [
+    "user686",
+    "Middlebury College",
+    [
+      "Political Science",
+      "Economics",
+      "Theater"
+    ]
+  ],
+  [
+    "user687",
+    "Carnegie Mellon University",
+    [
+      "Electrical and Computer Engineering"
+    ]
+  ],
+  [
+    "user688",
+    "University of Vermont",
+    [
+      "Undecided"
+    ]
+  ],
+  [
+    "user689",
+    "Northeastern University",
+    [
+      "Computer Science",
+      "Mathematics"
+    ]
+  ],
+  [
+    "user690",
+    "University of Florida",
+    [
+      "Astrophysics"
+    ]
+  ],
+  [
+    "user691",
+    "Arizona State University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user692",
+    "Washington University in St Louis",
+    [
+      "Philosophy",
+      "Neuroscience",
+      "Psychology"
+    ]
+  ],
+  [
+    "user693",
+    "University of Toronto",
+    [
+      "Neuroscience"
+    ]
+  ],
+  [
+    "user694",
+    "Occidental College",
+    [
+      "Politics"
+    ]
+  ],
+  [
+    "user695",
+    "University of California Davis",
+    [
+      "Communication"
+    ]
+  ],
+  [
+    "user696",
+    "Texas Tech University",
+    [
+      "Political Science"
+    ]
+  ],
+  [
+    "user697",
+    "Purdue University",
+    [
+      "Artificial Intelligence"
+    ]
+  ],
+  [
+    "user698",
+    "Northeastern University",
+    [
+      "Biology",
+      "English"
+    ]
+  ],
+  [
+    "user699",
+    "Boston College",
+    [
+      "Undecided"
+    ]
+  ],
+  [
+    "user700",
+    "Yale University",
+    [
+      "Political Science",
+      "Economics"
+    ]
+  ],
+  [
+    "user701",
+    "Davidson College",
+    [
+      "Computer Science",
+      "Data Science",
+      "Economics"
+    ]
+  ],
+  [
+    "user702",
+    "University of California Berkeley",
+    [
+      "Nuclear Engineering"
+    ]
+  ],
+  [
+    "user703",
+    "Yale University",
+    [
+      "Environmental Engineering"
+    ]
+  ],
+  [
+    "user704",
+    "New York University",
+    [
+      "Undeclared"
+    ]
+  ],
+  [
+    "user705",
+    "University of Waterloo",
+    [
+      "Mathematical Physics",
+      "Pure Mathematics"
+    ]
+  ],
+  [
+    "user706",
+    "Rutgers University New Brunswick",
+    [
+      "Political Science",
+      "Economics"
+    ]
+  ],
+  [
+    "user707",
+    "Harvard University",
+    [
+      "Undeclared"
+    ]
+  ],
+  [
+    "user708",
+    "Carnegie Mellon University",
+    [
+      "Electrical and Computer Engineering"
+    ]
+  ],
+  [
+    "user709",
+    "University of Waterloo",
+    [
+      "Software Engineering"
+    ]
+  ],
+  [
+    "user710",
+    "Brown University",
+    [
+      "Biomedical Engineering"
+    ]
+  ],
+  [
+    "user711",
+    "Harvard University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user712",
+    "University of California Davis",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user713",
+    "University of Waterloo",
+    [
+      "Electrical Engineering"
+    ]
+  ],
+  [
+    "user714",
+    "University of Wisconsin Madison",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user715",
+    "University of Texas Austin",
+    [
+      "Mathematics"
+    ]
+  ],
+  [
+    "user716",
+    "University of Massachusetts Amherst",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user717",
+    "Duke University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user718",
+    "University of California Berkeley",
+    [
+      "Undeclared"
+    ]
+  ],
+  [
+    "user719",
+    "Barnard College",
+    [
+      "Undeclared"
+    ]
+  ],
+  [
+    "user720",
+    "University of Michigan",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user721",
+    "University of Ottawa",
+    [
+      "Software Engineering"
+    ]
+  ],
+  [
+    "user722",
+    "University of Illinois Urbana Champaign",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user723",
+    "Georgetown University SFS",
+    [
+      "Undeclared"
+    ]
+  ],
+  [
+    "user724",
+    "University of California Los Angeles",
+    [
+      "General Biology"
+    ]
+  ],
+  [
+    "user725",
+    "Cornell University",
+    [
+      "Bioengineering"
+    ]
+  ],
+  [
+    "user726",
+    "University of California Berkeley",
+    [
+      "English"
+    ]
+  ],
+  [
+    "user727",
+    "Case Western Reserve University",
+    [
+      "Undecided"
+    ]
+  ],
+  [
+    "user728",
+    "University of Maryland",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user729",
+    "Kings College London",
+    [
+      "Philosophy",
+      "Politics",
+      "Economics"
+    ]
+  ],
+  [
+    "user730",
+    "Indiana University of Pennsylvania",
+    [
+      "Social Studies Education"
+    ]
+  ],
+  [
+    "user731",
+    "Cornell University",
+    [
+      "Undeclared"
+    ]
+  ],
+  [
+    "user732",
+    "University of Toronto",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user733",
+    "Duke University",
+    [
+      "Public Policy"
+    ]
+  ],
+  [
+    "user734",
+    "Washington University in St Louis",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user735",
+    "Princeton University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user736",
+    "Brandeis University",
+    [
+      "Psychology"
+    ]
+  ],
+  [
+    "user737",
+    "Columbia University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user738",
+    "University of Chicago",
+    [
+      "Astrophysics"
+    ]
+  ],
+  [
+    "user739",
+    "Amherst College",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user740",
+    "Indiana University of Pennsylvania",
+    [
+      "International Relations",
+      "Political Science"
+    ]
+  ],
+  [
+    "user741",
+    "Northeastern University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user742",
+    "Northeastern University",
+    [
+      "Marketing"
+    ]
+  ],
+  [
+    "user743",
+    "Hamilton College",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user744",
+    "Duke University",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user745",
+    "Cornell University",
+    [
+      "Biological Sciences"
+    ]
+  ],
+  [
+    "user746",
+    "Rice University",
+    [
+      "English",
+      "Political Science"
+    ]
+  ],
+  [
+    "user747",
+    "University of Pennsylvania",
+    [
+      "Neuroscience"
+    ]
+  ],
+  [
+    "user748",
+    "Duke University",
+    [
+      "Computer Science",
+      "Economics"
+    ]
+  ],
+  [
+    "user749",
+    "Tulane University",
+    [
+      "Political Science",
+      "Jazz Studies"
+    ]
+  ],
+  [
+    "user750",
+    "Cornell University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user751",
+    "Duke University",
+    [
+      "Mathematics"
+    ]
+  ],
+  [
+    "user752",
+    "Vassar College",
+    [
+      "Philosophy",
+      "Cognitive Science"
+    ]
+  ],
+  [
+    "user753",
+    "Pomona College",
+    [
+      "Economics",
+      "Music"
+    ]
+  ],
+  [
+    "user754",
+    "Cornell University",
+    [
+      "Engineering",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user755",
+    "Columbia University",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user756",
+    "Johns Hopkins University",
+    [
+      "Electrical Engineering"
+    ]
+  ],
+  [
+    "user757",
+    "Yale University",
+    [
+      "Molecular and Cellular Biology",
+      "Astronomy"
+    ]
+  ],
+  [
+    "user758",
+    "Tufts University",
+    [
+      "Electrical Engineering"
+    ]
+  ],
+  [
+    "user759",
+    "Vanderbilt University",
+    [
+      "Chemical Engineering"
+    ]
+  ],
+  [
+    "user760",
+    "Harvard College",
+    [
+      "Psychology",
+      "Pre-Med"
+    ]
+  ],
+  [
+    "user761",
+    "University of Pennsylvania",
+    [
+      "Economics",
+      "Finance"
+    ]
+  ],
+  [
+    "user762",
+    "Northwestern University",
+    [
+      "Communication Studies"
+    ]
+  ],
+  [
+    "user763",
+    "Cornell University",
+    [
+      "Mathematical Sciences"
+    ]
+  ],
+  [
+    "user764",
+    "Columbia University",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user765",
+    "University of Chicago",
+    [
+      "Linguistics"
+    ]
+  ],
+  [
+    "user766",
+    "Brown University",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user767",
+    "Stanford University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user768",
+    "University of Pennsylvania",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user769",
+    "Princeton University",
+    [
+      "Electrical & Computer Engineering"
+    ]
+  ],
+  [
+    "user770",
+    "Chabot Community College",
+    [
+      "Business Management",
+      "Administration"
+    ]
+  ],
+  [
+    "user771",
+    "Princeton University",
+    [
+      "Computer Science",
+      "Music"
+    ]
+  ],
+  [
+    "user772",
+    "Stanford University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user773",
+    "Rowan University",
+    [
+      "History"
+    ]
+  ],
+  [
+    "user774",
+    "Brown University",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user775",
+    "New York University",
+    [
+      "Neuroscience"
+    ]
+  ],
+  [
+    "user776",
+    "Florida State University",
+    [
+      "Accounting"
+    ]
+  ],
+  [
+    "user777",
+    "New York University",
+    [
+      "Economics"
+    ]
+  ],
+  [
+    "user778",
+    "Boston University",
+    [
+      "Journalism",
+      "Political Science"
+    ]
+  ],
+  [
+    "user779",
+    "Rochester Institute of Technology",
+    [
+      "Computing",
+      "Information Technologies"
+    ]
+  ],
+  [
+    "user780",
+    "University of Southern California",
+    [
+      "Digital Media Management"
+    ]
+  ],
+  [
+    "user781",
+    "Harvard College",
+    [
+      "Economics",
+      "Government"
+    ]
+  ],
+  [
+    "user782",
+    "Northwestern University",
+    [
+      "Economics",
+      "Statistics"
+    ]
+  ],
+  [
+    "user783",
+    "Ohio State University",
+    [
+      "International Relations"
+    ]
+  ],
+  [
+    "user784",
+    "Georgia Institute of Technology",
+    [
+      "Chemical Engineering"
+    ]
+  ],
+  [
+    "user785",
+    "University of Illinois Urbana Champaign",
+    [
+      "Electrical Engineering"
+    ]
+  ],
+  [
+    "user786",
+    "University of Pennsylvania",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user787",
+    "University of California Berkeley",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user788",
+    "Barnard College",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user789",
+    "Northwestern University",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user790",
+    "Lehigh University",
+    [
+      "Political Science",
+      "Psychology"
+    ]
+  ],
+  [
+    "user791",
+    "Vanderbilt University",
+    [
+      "Neurosciences"
+    ]
+  ],
+  [
+    "user792",
+    "University of Richmond",
+    [
+      "Anthropology",
+      "Art History",
+      "Archaeology",
+      "French"
+    ]
+  ],
+  [
+    "user793",
+    "University of Chicago",
+    [
+      "Physics",
+      "Quantum Molecular Engineering"
+    ]
+  ],
+  [
+    "user794",
+    "Lafayette College",
+    [
+      "Government",
+      "Law"
+    ]
+  ],
+  [
+    "user795",
+    "Rochester Institute of Technology",
+    [
+      "Game Design",
+      "Development"
+    ]
+  ],
+  [
+    "user796",
+    "Cornell University",
+    [
+      "Engineering"
+    ]
+  ],
+  [
+    "user797",
+    "Local Community College",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user798",
+    "University of Florida",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user799",
+    "Boston University",
+    [
+      "Biology"
+    ]
+  ],
+  [
+    "user800",
+    "Long Island University Post",
+    [
+      "Musical Theater"
+    ]
+  ],
+  [
+    "user801",
+    "North Carolina State University",
+    [
+      "Textile Engineering"
+    ]
+  ],
+  [
+    "user802",
+    "Emory University",
+    [
+      "Political Science",
+      "Finance"
+    ]
+  ],
+  [
+    "user803",
+    "University of Central Florida",
+    [
+      "Computer Science",
+      "Digital Media"
+    ]
+  ],
+  [
+    "user804",
+    "University College Dublin",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user805",
+    "Washington University in St Louis",
+    [
+      "Linguistics",
+      "Anthropology"
+    ]
+  ],
+  [
+    "user806",
+    "Carleton College",
+    [
+      "Psychology",
+      "Pre-Med"
+    ]
+  ],
+  [
+    "user807",
+    "Northeastern University",
+    [
+      "Chemical Engineering"
+    ]
+  ],
+  [
+    "user808",
+    "University of South Florida",
+    [
+      "Computer Engineering"
+    ]
+  ],
+  [
+    "user809",
+    "Yale University",
+    [
+      "Mathematics",
+      "Philosophy"
+    ]
+  ],
+  [
+    "user810",
+    "Cornell University",
+    [
+      "Computer Science",
+      "History"
+    ]
+  ],
+  [
+    "user811",
+    "Texas A&M University",
+    [
+      "Engineering"
+    ]
+  ],
+  [
+    "user812",
+    "Mount Saint Marys University",
+    [
+      "Psychology"
+    ]
+  ],
+  [
+    "user813",
+    "Massachusetts Institute of Technology",
+    [
+      "Electrical Engineering",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user814",
+    "Temple University",
+    [
+      "Film"
+    ]
+  ],
+  [
+    "user815",
+    "Emory University",
+    [
+      "Biology",
+      "Anthropology",
+      "Pre-Med"
+    ]
+  ],
+  [
+    "user816",
+    "University of California Riverside",
+    [
+      "Bioengineering"
+    ]
+  ],
+  [
+    "user817",
+    "Williams College",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user818",
+    "Massachusetts Institute of Technology",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user819",
+    "University of California Berkeley",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user820",
+    "Temple University",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user821",
+    "University of Texas at Austin",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user822",
+    "University of Texas at Austin",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user823",
+    "University of Texas at Austin",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user824",
+    "University of California Berkeley",
+    [
+      "Business Administration"
+    ]
+  ],
+  [
+    "user825",
+    "University of California San Diego",
+    [
+      "Chemical Engineering"
+    ]
+  ],
+  [
+    "user826",
+    "University of Washington",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user827",
+    "Northwestern University",
+    [
+      "Biological Sciences",
+      "Pre-Med"
+    ]
+  ],
+  [
+    "user828",
+    "Cornell University",
+    [
+      "Applied Economics",
+      "Management",
+      "Finance",
+      "Entrepreneurship",
+      "Pre-Law"
+    ]
+  ],
+  [
+    "user829",
+    "Colby College",
+    [
+      "Computer Science",
+      "Artificial Intelligence"
+    ]
+  ],
+  [
+    "user830",
+    "Virginia Tech",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user831",
+    "Grinnell College",
+    [
+      "Political Science",
+      "Economics",
+      "Pre-Law",
+      "Foreign Service"
+    ]
+  ],
+  [
+    "user832",
+    "New York University",
+    [
+      "Economics",
+      "Mathematics"
+    ]
+  ],
+  [
+    "user833",
+    "Duke University",
+    [
+      "Computer Science",
+      "Linguistics"
+    ]
+  ],
+  [
+    "user834",
+    "Stony Brook University",
+    [
+      "Applied Mathematics",
+      "Statistics"
+    ]
+  ],
+  [
+    "user835",
+    "Florida State University",
+    [
+      "Nursing",
+      "Public Health"
+    ]
+  ],
+  [
+    "user836",
+    "Yale University",
+    [
+      "Applied Mathematics"
+    ]
+  ],
+  [
+    "user837",
+    "University of Illinois Urbana Champaign",
+    [
+      "Computer Science",
+      "Physics"
+    ]
+  ],
+  [
+    "user838",
+    "Northeastern University",
+    [
+      "Cybersecurity"
+    ]
+  ],
+  [
+    "user839",
+    "Brown University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user840",
+    "Brown University",
+    [
+      "Mathematics",
+      "Chemistry"
+    ]
+  ],
+  [
+    "user841",
+    "University of North Carolina Chapel Hill",
+    [
+      "Public Policy",
+      "Business"
+    ]
+  ],
+  [
+    "user842",
+    "University of California Los Angeles",
+    [
+      "Applied Mathematics"
+    ]
+  ],
+  [
+    "user843",
+    "Georgia Institute of Technology",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user844",
+    "University of Michigan",
+    [
+      "Business Administration"
+    ]
+  ],
+  [
+    "user845",
+    "Case Western Reserve University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user846",
+    "Purdue University",
+    [
+      "Engineering",
+      "Bioengineering",
+      "Biochemistry"
+    ]
+  ],
+  [
+    "user847",
+    "Georgia Institute of Technology",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user848",
+    "Cornell University",
+    [
+      "Bioengineering",
+      "NROTC"
+    ]
+  ],
+  [
+    "user849",
+    "Boston University",
+    [
+      "Anthropology",
+      "Health",
+      "Medicine"
+    ]
+  ],
+  [
+    "user850",
+    "Colby College",
+    [
+      "Psychology",
+      "Neuroscience"
+    ]
+  ],
+  [
+    "user851",
+    "University of California Berkeley",
+    [
+      "Electrical Engineering",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user852",
+    "University of California Irvine",
+    [
+      "Earth System Sciences"
+    ]
+  ],
+  [
+    "user853",
+    "University of California Davis",
+    [
+      "Cognitive Science"
+    ]
+  ],
+  [
+    "user854",
+    "Brown University",
+    [
+      "Biology",
+      "Linguistics",
+      "Geology"
+    ]
+  ],
+  [
+    "user855",
+    "North Carolina State University",
+    [
+      "Engineering",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user856",
+    "Purdue University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user857",
+    "Duke University",
+    [
+      "Bioengineering",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user858",
+    "University of California Berkeley",
+    [
+      "Political Economy"
+    ]
+  ],
+  [
+    "user859",
+    "University of Michigan",
+    [
+      "Information Science",
+      "Law",
+      "Justice",
+      "Social Change"
+    ]
+  ],
+  [
+    "user860",
+    "Princeton University",
+    [
+      "Public and International Affairs"
+    ]
+  ],
+  [
+    "user861",
+    "University of California Berkeley",
+    [
+      "Statistics"
+    ]
+  ],
+  [
+    "user862",
+    "University of Texas at Austin",
+    [
+      "Public Health",
+      "Pre-Med"
+    ]
+  ],
+  [
+    "user863",
+    "University of Connecticut",
+    [
+      "Psychological Sciences",
+      "Marine Sciences",
+      "Italian Studies",
+      "Pre-Med"
+    ]
+  ],
+  [
+    "user864",
+    "University of Southern California",
+    [
+      "Political Science",
+      "Pre-Law"
+    ]
+  ],
+  [
+    "user865",
+    "Purdue University",
+    [
+      "Artificial Intelligence"
+    ]
+  ],
+  [
+    "user866",
+    "University of Michigan",
+    [
+      "Urban Technology"
+    ]
+  ],
+  [
+    "user867",
+    "University of Texas at Austin",
+    [
+      "Business Honors"
+    ]
+  ],
+  [
+    "user868",
+    "Colby College",
+    [
+      "Environmental Policy"
+    ]
+  ],
+  [
+    "user869",
+    "University of Southern California",
+    [
+      "Behavioral Economics",
+      "Psychology"
+    ]
+  ],
+  [
+    "user870",
+    "University of California Riverside",
+    [
+      "Electrical Engineering"
+    ]
+  ],
+  [
+    "user871",
+    "Georgetown University",
+    [
+      "Government",
+      "History",
+      "Pre-Law"
+    ]
+  ],
+  [
+    "user872",
+    "University of North Carolina Chapel Hill",
+    [
+      "Biostatistics"
+    ]
+  ],
+  [
+    "user873",
+    "Carnegie Mellon University",
+    [
+      "Electrical and Computer Engineering"
+    ]
+  ],
+  [
+    "user874",
+    "American University",
+    [
+      "Political Science",
+      "Environmental Studies"
+    ]
+  ],
+  [
+    "user875",
+    "Northeastern University",
+    [
+      "Business"
+    ]
+  ],
+  [
+    "user876",
+    "University at Buffalo SUNY",
+    [
+      "Electrical Engineering"
+    ]
+  ],
+  [
+    "user877",
+    "Carnegie Mellon University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user878",
+    "University of Illinois Urbana Champaign",
+    [
+      "Computer Science",
+      "Linguistics"
+    ]
+  ],
+  [
+    "user879",
+    "University of California Berkeley",
+    [
+      "Molecular Environmental Biology"
+    ]
+  ],
+  [
+    "user880",
+    "Purdue University",
+    [
+      "Engineering",
+      "Mechanical Engineering"
+    ]
+  ],
+  [
+    "user881",
+    "University of California Santa Barbara",
+    [
+      "Physics"
+    ]
+  ],
+  [
+    "user882",
+    "Princeton University",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user883",
+    "Cornell University",
+    [
+      "Biometry and Statistics"
+    ]
+  ],
+  [
+    "user884",
+    "Wake Forest University",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user885",
+    "Purdue University",
+    [
+      "Pure Math",
+      "Computer Engineering"
+    ]
+  ],
+  [
+    "user886",
+    "Northeastern University",
+    [
+      "Biochemistry",
+      "Pre-Med"
+    ]
+  ],
+  [
+    "user887",
+    "Colby College",
+    [
+      "Chemistry"
+    ]
+  ],
+  [
+    "user888",
+    "Purdue University",
+    [
+      "First Year Engineering"
+    ]
+  ],
+  [
+    "user889",
+    "University of North Carolina",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user890",
+    "Purdue University",
+    [
+      "Aerospace Engineering"
+    ]
+  ],
+  [
+    "user891",
+    "University of Michigan",
+    [
+      "Physics"
+    ]
+  ],
+  [
+    "user892",
+    "University of Chicago",
+    [
+      "Molecular Engineering"
+    ]
+  ],
+  [
+    "user893",
+    "State University of New York College of Environmental Science and Forestry",
+    [
+      "Wildlife Biology"
+    ]
+  ],
+  [
+    "user894",
+    "University of Illinois Urbana Champaign",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user895",
+    "University of Michigan",
+    [
+      "Bachelor of Business Administration"
+    ]
+  ],
+  [
+    "user896",
+    "Purdue University",
+    [
+      "Aerospace Engineering"
+    ]
+  ],
+  [
+    "user897",
+    "Macalester College",
+    [
+      "Public Health",
+      "Political Science"
+    ]
+  ],
+  [
+    "user898",
+    "University of California Merced",
+    [
+      "Political Science"
+    ]
+  ],
+  [
+    "user899",
+    "University of California Santa Barbara",
+    [
+      "Psychology",
+      "Brain Sciences"
+    ]
+  ],
+  [
+    "user900",
+    "Bucknell University",
+    [
+      "Economics",
+      "International Relations"
+    ]
+  ],
+  [
+    "user901",
+    "Massachusetts Institute of Technology",
+    [
+      "Chemistry",
+      "Biology"
+    ]
+  ],
+  [
+    "user902",
+    "Ohio State University",
+    [
+      "Mechanical Engineering"
+    ]
+  ],
+  [
+    "user903",
+    "Lehigh University",
+    [
+      "Population Health"
+    ]
+  ],
+  [
+    "user904",
+    "Princeton University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user905",
+    "University of Michigan",
+    [
+      "History",
+      "Political Science"
+    ]
+  ],
+  [
+    "user906",
+    "University of California Berkeley",
+    [
+      "Marine Science"
+    ]
+  ],
+  [
+    "user907",
+    "Georgia Institute of Technology",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user908",
+    "University of Illinois Urbana Champaign",
+    [
+      "Mechanical Engineering"
+    ]
+  ],
+  [
+    "user909",
+    "George Washington University",
+    [
+      "Political Science"
+    ]
+  ],
+  [
+    "user910",
+    "Princeton University",
+    [
+      "Molecular Biology"
+    ]
+  ],
+  [
+    "user911",
+    "Harvard University",
+    [
+      "Government"
+    ]
+  ],
+  [
+    "user912",
+    "University of California Berkeley",
+    [
+      "Media Studies",
+      "Data Science"
+    ]
+  ],
+  [
+    "user913",
+    "University of California Los Angeles",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user914",
+    "Harvard University",
+    [
+      "Economics"
+    ]
+  ],
+  [
+    "user915",
+    "Texas A&M University",
+    [
+      "Aerospace Engineering"
+    ]
+  ],
+  [
+    "user916",
+    "University of California Los Angeles",
+    [
+      "Biochemistry"
+    ]
+  ],
+  [
+    "user917",
+    "University of Toronto",
+    [
+      "Life Sciences"
+    ]
+  ],
+  [
+    "user918",
+    "University of Michigan",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user919",
+    "University of California Los Angeles",
+    [
+      "Microbiology",
+      "Immunology",
+      "Molecular Genetics"
+    ]
+  ],
+  [
+    "user920",
+    "University of Toronto",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user921",
+    "University of Chicago",
+    [
+      "Computational and Applied Math",
+      "Economics"
+    ]
+  ],
+  [
+    "user922",
+    "Harvard University",
+    [
+      "Computer Science",
+      "Political Science"
+    ]
+  ],
+  [
+    "user923",
+    "University of Illinois Urbana Champaign",
+    [
+      "Computer Science",
+      "Education",
+      "Learning Sciences"
+    ]
+  ],
+  [
+    "user924",
+    "University of California Santa Cruz",
+    [
+      "Applied Physics"
+    ]
+  ],
+  [
+    "user925",
+    "University of California Santa Barbara",
+    [
+      "Computer Engineering"
+    ]
+  ],
+  [
+    "user926",
+    "Massachusetts Institute of Technology",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user927",
+    "University of Southern California",
+    [
+      "Civil Engineering"
+    ]
+  ],
+  [
+    "user928",
+    "Washington and Lee University",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user929",
+    "Brown University",
+    [
+      "Applied Math"
+    ]
+  ],
+  [
+    "user930",
+    "Northeastern University",
+    [
+      "Pharmacy"
+    ]
+  ],
+  [
+    "user931",
+    "University of Illinois Urbana Champaign",
+    [
+      "Statistics"
+    ]
+  ],
+  [
+    "user932",
+    "University of Michigan",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user933",
+    "University of Wisconsin Madison",
+    [
+      "Computer Science",
+      "Political Science"
+    ]
+  ],
+  [
+    "user934",
+    "University of Pennsylvania",
+    [
+      "Bioengineering"
+    ]
+  ],
+  [
+    "user935",
+    "Worcester Polytechnic Institute",
+    [
+      "Robotics Engineering"
+    ]
+  ],
+  [
+    "user936",
+    "University of Michigan",
+    [
+      "Aeronautical Engineering"
+    ]
+  ],
+  [
+    "user937",
+    "Princeton University",
+    [
+      "Economics"
+    ]
+  ],
+  [
+    "user938",
+    "University of California Santa Barbara",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user939",
+    "University of Pennsylvania",
+    [
+      "Business Economics",
+      "Public Policy",
+      "Gender",
+      "Sexuality",
+      "Women's Studies"
+    ]
+  ],
+  [
+    "user940",
+    "Harvard University",
+    [
+      "Computer Science",
+      "Government"
+    ]
+  ],
+  [
+    "user941",
+    "University of Massachusetts Amherst",
+    [
+      "Mathematics"
+    ]
+  ],
+  [
+    "user942",
+    "University of Rochester",
+    [
+      "Epidemiology",
+      "International Relations",
+      "Archaeology"
+    ]
+  ],
+  [
+    "user943",
+    "Vassar College",
+    [
+      "Political Science"
+    ]
+  ],
+  [
+    "user944",
+    "Harvard University",
+    [
+      "Astronomy",
+      "Physics",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user945",
+    "University of California Los Angeles",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user946",
+    "Wake Forest University",
+    [
+      "Psychology"
+    ]
+  ],
+  [
+    "user947",
+    "Washington University in St Louis",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user948",
+    "Boston Conservatory at Berklee",
+    [
+      "Voice/Opera"
+    ]
+  ],
+  [
+    "user949",
+    "Pennsylvania State University",
+    [
+      "Aerospace Engineering"
+    ]
+  ],
+  [
+    "user950",
+    "University of Southern California",
+    [
+      "Biochemistry"
+    ]
+  ],
+  [
+    "user951",
+    "University of California Los Angeles",
+    [
+      "Biology"
+    ]
+  ],
+  [
+    "user952",
+    "University of California Irvine",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user953",
+    "Duke University",
+    [
+      "Biomedical Engineering",
+      "Art"
+    ]
+  ],
+  [
+    "user954",
+    "Louisiana State University",
+    [
+      "Animal Sciences"
+    ]
+  ],
+  [
+    "user955",
+    "Rice University",
+    [
+      "Biosciences",
+      "Biochemistry"
+    ]
+  ],
+  [
+    "user958",
+    "Carnegie Mellon University",
+    [
+      "Electrical and Computer Engineering"
+    ]
+  ],
+  [
+    "user959",
+    "University of California Irvine",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user960",
+    "Rice University",
+    [
+      "Computer Science",
+      "Mathematics"
+    ]
+  ],
+  [
+    "user961",
+    "Massachusetts Institute of Technology",
+    [
+      "Mechanical Engineering"
+    ]
+  ],
+  [
+    "user962",
+    "Brown University",
+    [
+      "Computer Science",
+      "Pre-Med"
+    ]
+  ],
+  [
+    "user963",
+    "College of William & Mary",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user964",
+    "Yale University",
+    [
+      "Economics"
+    ]
+  ],
+  [
+    "user965",
+    "Stanford University",
+    [
+      "Political Science",
+      "Symbolic Systems"
+    ]
+  ],
+  [
+    "user966",
+    "Boston University",
+    [
+      "Computer Engineering"
+    ]
+  ],
+  [
+    "user967",
+    "Bowdoin College",
+    [
+      "Archaeology"
+    ]
+  ],
+  [
+    "user968",
+    "New York University",
+    [
+      "Film and TV"
+    ]
+  ],
+  [
+    "user969",
+    "Santa Clara University",
+    [
+      "Computer Science",
+      "Engineering"
+    ]
+  ],
+  [
+    "user970",
+    "Santa Clara University",
+    [
+      "Finance"
+    ]
+  ],
+  [
+    "user971",
+    "Princeton University",
+    [
+      "Chemistry",
+      "Sociology"
+    ]
+  ],
+  [
+    "user972",
+    "University of Florida",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user973",
+    "Stanford University",
+    [
+      "Science",
+      "Technology",
+      "and Society",
+      "Statistics"
+    ]
+  ],
+  [
+    "user974",
+    "University of Nevada Reno",
+    [
+      "Information Systems"
+    ]
+  ],
+  [
+    "user975",
+    "Cornell University",
+    [
+      "Economics",
+      "Mathematics",
+      "Linguistics"
+    ]
+  ],
+  [
+    "user976",
+    "University of Michigan",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user977",
+    "University of Florida",
+    [
+      "Microbiology",
+      "Cell Sciences"
+    ]
+  ],
+  [
+    "user978",
+    "Harvard University",
+    [
+      "Chemical and Physical Biology"
+    ]
+  ],
+  [
+    "user979",
+    "University of Cincinnati",
+    [
+      "Computer Engineering"
+    ]
+  ],
+  [
+    "user980",
+    "Stanford University",
+    [
+      "Mechanical Engineering"
+    ]
+  ],
+  [
+    "user981",
+    "Hong Kong University of Science and Technology",
+    [
+      "Engineering"
+    ]
+  ],
+  [
+    "user982",
+    "Rice University",
+    [
+      "Business"
+    ]
+  ],
+  [
+    "user983",
+    "Georgetown University",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user984",
+    "Carnegie Mellon University",
+    [
+      "Computational Biology",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user985",
+    "Cornell University",
+    [
+      "Computer Science",
+      "Mathematics",
+      "Economics"
+    ]
+  ],
+  [
+    "user986",
+    "Duke University",
+    [
+      "Physics",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user987",
+    "Harvard University",
+    [
+      "Computer Science",
+      "Mathematics"
+    ]
+  ],
+  [
+    "user988",
+    "Vassar College",
+    [
+      "Economics"
+    ]
+  ],
+  [
+    "user989",
+    "Harvard University",
+    [
+      "Neuroscience"
+    ]
+  ],
+  [
+    "user990",
+    "University of Southern California",
+    [
+      "Stage Management",
+      "Music Industry"
+    ]
+  ],
+  [
+    "user991",
+    "Cornell University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user992",
+    "University of Massachusetts Amherst",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user993",
+    "The Ohio State University",
+    [
+      "Electrical & Computer Engineering"
+    ]
+  ],
+  [
+    "user994",
+    "Purdue University",
+    [
+      "Mechanical Engineering"
+    ]
+  ],
+  [
+    "user995",
+    "University of California Los Angeles",
+    [
+      "Molecular Cellular and Developmental Biology",
+      "Marine Biology"
+    ]
+  ],
+  [
+    "user996",
+    "University of California Berkeley",
+    [
+      "Political Science",
+      "Rhetoric"
+    ]
+  ],
+  [
+    "user997",
+    "University of Massachusetts Amherst",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user998",
+    "Bates College",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user999",
+    "Carleton College",
+    [
+      "Cognitive Science"
+    ]
+  ],
+  [
+    "user1000",
+    "Grambling State University",
+    [
+      "Electrical and Electronics Engineering",
+      "Cybersecurity"
+    ]
+  ],
+  [
+    "user1001",
+    "Carnegie Mellon University",
+    [
+      "Business"
+    ]
+  ],
+  [
+    "user1002",
+    "Iowa State University",
+    [
+      "Marketing"
+    ]
+  ],
+  [
+    "user1003",
+    "Stanford University",
+    [
+      "Computer Science",
+      "Management Science & Engineering"
+    ]
+  ],
+  [
+    "user1004",
+    "Ithaca College",
+    [
+      "Architectural Studies"
+    ]
+  ],
+  [
+    "user1005",
+    "Princeton University",
+    [
+      "Electrical and Computer Engineering"
+    ]
+  ],
+  [
+    "user1006",
+    "Georgetown University",
+    [
+      "Political Economy"
+    ]
+  ],
+  [
+    "user1007",
+    "University of Texas at Austin",
+    [
+      "Undeclared Business"
+    ]
+  ],
+  [
+    "user1008",
+    "Carnegie Mellon University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user1009",
+    "University of California Berkeley",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user1010",
+    "Williams College",
+    [
+      "Economics",
+      "Mathematics"
+    ]
+  ],
+  [
+    "user1011",
+    "The Cooper Union",
+    [
+      "Chemical Engineering",
+      "Electrical Engineering"
+    ]
+  ],
+  [
+    "user1012",
+    "Rensselaer Polytechnic Institute",
+    [
+      "Computer and Systems Engineering",
+      "Physics"
+    ]
+  ],
+  [
+    "user1013",
+    "Stanford University",
+    [
+      "Mathematics",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user1014",
+    "University of Illinois Urbana Champaign",
+    [
+      "Computer Engineering"
+    ]
+  ],
+  [
+    "user1015",
+    "University of Illinois Urbana Champaign",
+    [
+      "Data Science",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user1016",
+    "Cornell University",
+    [
+      "Biological Sciences",
+      "Neurobiology",
+      "Chemistry",
+      "Psychology"
+    ]
+  ],
+  [
+    "user1017",
+    "Mount Holyoke College",
+    [
+      "English",
+      "Black Studies"
+    ]
+  ],
+  [
+    "user1018",
+    "University of Toronto",
+    [
+      "Rotman Commerce"
+    ]
+  ],
+  [
+    "user1019",
+    "University of Michigan",
+    [
+      "Astrophysics",
+      "Astronomy",
+      "Space Sciences",
+      "Instrumentation"
+    ]
+  ],
+  [
+    "user1020",
+    "Yale University",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user1021",
+    "Claremont McKenna College",
+    [
+      "Environmental Studies",
+      "Economics",
+      "Politics",
+      "Government",
+      "International Relations"
+    ]
+  ],
+  [
+    "user1022",
+    "University of Virginia",
+    [
+      "English",
+      "Black Studies",
+      "Pre-Law"
+    ]
+  ],
+  [
+    "user1023",
+    "University of South Florida",
+    [
+      "Electrical and Electronic Engineering"
+    ]
+  ],
+  [
+    "user1024",
+    "California Institute of the Arts",
+    [
+      "Acting"
+    ]
+  ],
+  [
+    "user1025",
+    "University of California Berkeley",
+    [
+      "Astrophysics"
+    ]
+  ],
+  [
+    "user1026",
+    "Brown University",
+    [
+      "Applied Mathematics",
+      "Linguistics"
+    ]
+  ],
+  [
+    "user1027",
+    "Cornell University",
+    [
+      "Physics",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user1028",
+    "Purdue University",
+    [
+      "Robotics"
+    ]
+  ],
+  [
+    "user1029",
+    "University of San Diego",
+    [
+      "Pre-Law"
+    ]
+  ],
+  [
+    "user1030",
+    "University of Waterloo",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user1031",
+    "Northwestern University",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user1032",
+    "Wellesley College",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user1033",
+    "University of Wisconsin Madison",
+    [
+      "Genetics",
+      "Data Science"
+    ]
+  ],
+  [
+    "user1034",
+    "Arizona State University",
+    [
+      "Economics",
+      "Math"
+    ]
+  ],
+  [
+    "user1035",
+    "Macalester College",
+    [
+      "Biology",
+      "Music"
+    ]
+  ],
+  [
+    "user1036",
+    "University of Southern California",
+    [
+      "Mechanical Engineering",
+      "Comedy"
+    ]
+  ],
+  [
+    "user1037",
+    "Purdue University",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user1038",
+    "Ohio State University",
+    [
+      "Animal Science"
+    ]
+  ],
+  [
+    "user1039",
+    "Michigan State University",
+    [
+      "Chemistry",
+      "Computer Science"
+    ]
+  ],
+  [
+    "user1040",
+    "Cornell University",
+    [
+      "Biological Sciences",
+      "Entomology"
+    ]
+  ],
+  [
+    "user1042",
+    "University of Texas at Austin",
+    [
+      "Electrical and Computer Engineering"
+    ]
+  ],
+  [
+    "user1043",
+    "University of California Santa Cruz",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user1044",
+    "University of Connecticut",
+    [
+      "Computer Science"
+    ]
+  ],
+  [
+    "user1046",
+    "University of Southern California",
+    [
+      "Electrical and Computer Engineering",
+      "Cognitive Science"
+    ]
+  ],
+  [
+    "user1047",
+    "King Saud University",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user1048",
+    "Florida Tech",
+    [
+      "Computer Information Systems"
+    ]
+  ],
+  [
+    "user1049",
+    "Amsterdam University College",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user1050",
+    "University of California San Diego",
+    [
+      "Human Biology"
+    ]
+  ],
+  [
+    "user1051",
+    "University of Illinois Urbana Champaign",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user1052",
+    "University of California Los Angeles",
+    [
+      "Biophysics"
+    ]
+  ],
+  [
+    "user1053",
+    "California State University Monterey Bay",
+    [
+      "Mechatronics Engineering"
+    ]
+  ],
+  [
+    "user1054",
+    "Purdue University",
+    [
+      "Engineering",
+      "Aerospace"
+    ]
+  ],
+  [
+    "user1055",
+    "University of Washington",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user1056",
+    "New York University",
+    [
+      "N/A"
+    ]
+  ],
+  [
+    "user1057",
+    "University of Southern California",
+    [
+      "N/A"
+    ]
+  ]
+]

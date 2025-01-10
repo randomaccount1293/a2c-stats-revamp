@@ -1,9 +1,15 @@
 import os
 import json
 import csv
+import re
+
 
 # This module should be run after clean.py
 # This parses the result from clean.py into a json to be used in other applications.
+
+def clean_university_name(name):
+    return re.sub(r"[^a-zA-Z&]", "", name)
+
 
 def postprocess_json(input_dir, output_dir):
     for file in os.listdir(input_dir):
@@ -23,7 +29,10 @@ def postprocess_json(input_dir, output_dir):
                 success = False
                 break
 
-            json_data.append([temp[0], temp[1], [i.strip() for i in temp[2].split(",")]])
+            if temp[1] == "N/A":
+                continue
+
+            json_data.append([temp[0], clean_university_name(temp[1]), [i.strip() for i in temp[2].split(",")]])
 
         if success:
             with open(f"{output_dir}/{file}.json", "w") as f:
@@ -49,7 +58,10 @@ def postprocess_csv(input_dir, output_dir):
                 success = False
                 break
 
-            university_data.append([temp[0], temp[1]])
+            if temp[1] == "N/A":
+                continue
+
+            university_data.append([temp[0], clean_university_name(temp[1])])
             major_data.extend([[temp[0], i.strip()] for i in temp[2].split(",")])
 
         if success:
